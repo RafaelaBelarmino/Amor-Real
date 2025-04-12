@@ -1,0 +1,32 @@
+body {
+    color: white;
+    background-color: black;
+    background-image: url('558237dd1c3792b634d371ec47087a68.gif');
+    background-size:3000px;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items:center;
+    padding: 200px;
+    font-size:xx-large;
+}
+
+ h2{
+    <style>
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh; 
+        text-align: center; 
+        font-family: Arial, sans-serif;
+    }
+    h2, p {
+        margin: 10px;
+    }
+</style>
+
+ }
